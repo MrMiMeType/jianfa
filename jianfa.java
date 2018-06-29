@@ -6,3 +6,4 @@
 这是在dev分支上对jianfa.java的修改！
 这是master分支上对jianfa.java的修改！
 这是在master分支上对jianfa.java的第二次修改！
+模拟冲突解决！这是在dev分支上的修改！
