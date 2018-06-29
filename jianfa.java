@@ -7,3 +7,5 @@
 这是master分支上对jianfa.java的修改！
 这是在master分支上对jianfa.java的第二次修改！
 模拟冲突解决！这是在dev分支上的修改！
+
+这个功夫感觉好厉害呢！
